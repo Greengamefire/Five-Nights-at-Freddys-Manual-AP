@@ -1,5 +1,5 @@
 # Info
-You play FNaF unlocking Nights and blocking jumpscares
+You play FNaF by unlocking Nights and blocking jumpscares
 # How-it-Works
 You get checks from Blocking Jumpscares, Listening to Phone Guy, and Completing Nights
 # Options
